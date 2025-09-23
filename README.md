@@ -38,11 +38,11 @@ Predictions will be saved in runs/detect/predict/.
 
 ## 🧪 Example Predictions
 
-### First Aid Box
+### Oxygen Tank
 ![FirstAid Prediction](https://github.com/Hemanth098/Duality-AI-Dataset-Falcon/blob/main/runs/detect/predict/000000031_dark_clutter.jpg)
 
 ### Fire Extinguisher
-![FireExtinguisher Prediction](https://github.com/Hemanth098/Duality-AI-Dataset-Falcon/blob/main/runs/detect/predict2/000000008_vlight_unclutter.jpg)
+![FireExtinguisher Prediction](https://github.com/Hemanth098/Duality-AI-Dataset-Falcon/blob/main/runs/detect/predict2/000000042_dark_unclutter.jpg)
 
-### Oxygen Tank
+### First Aid Kit
 ![OxygenTank Prediction](https://github.com/Hemanth098/Duality-AI-Dataset-Falcon/blob/main/runs/detect/predict3/000000008_vlight_unclutter.jpg)
