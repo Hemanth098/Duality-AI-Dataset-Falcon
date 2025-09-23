@@ -39,7 +39,7 @@ Predictions will be saved in runs/detect/predict/.
 ## 🧪 Example Predictions
 
 ### First Aid Box
-![FirstAid Prediction](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/examples/firstaid_prediction.jpg?raw=true)
+![FirstAid Prediction](https://github.com/Hemanth098/Duality-AI-Dataset-Falcon/blob/main/runs/detect/predict/000000031_dark_clutter.jpg)
 
 ### Fire Extinguisher
 ![FireExtinguisher Prediction](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/examples/fireextinguisher_prediction.jpg?raw=true)
