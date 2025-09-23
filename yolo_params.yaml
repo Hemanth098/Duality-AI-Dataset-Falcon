@@ -1,0 +1,5 @@
+train: 'C:/Users/prane/OneDrive/Documents/GitHub/Astra/Dataset/train_1/train1/'
+val: 'C:/Users/prane/OneDrive/Documents/GitHub/Astra/Dataset/train_1/val1/'
+test: 'C:/Users/prane/OneDrive/Documents/GitHub/Astra/Dataset/test1/'
+nc: 7
+names: ['OxygenTank', 'NitrogenTank', 'FirstAidBox', 'FireAlarm', 'SafetySwitchPanel', 'EmergencyPhone', 'FireExtinguisher']                                         
