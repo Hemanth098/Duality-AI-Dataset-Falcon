@@ -42,7 +42,7 @@ Predictions will be saved in runs/detect/predict/.
 ![FirstAid Prediction](https://github.com/Hemanth098/Duality-AI-Dataset-Falcon/blob/main/runs/detect/predict/000000031_dark_clutter.jpg)
 
 ### Fire Extinguisher
-![FireExtinguisher Prediction](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/examples/fireextinguisher_prediction.jpg?raw=true)
+![FireExtinguisher Prediction](https://github.com/Hemanth098/Duality-AI-Dataset-Falcon/blob/main/runs/detect/predict2/000000008_vlight_unclutter.jpg)
 
 ### Oxygen Tank
-![OxygenTank Prediction](https://github.com/YOUR-USERNAME/YOUR-REPO/blob/main/examples/oxygentank_prediction.jpg?raw=true)
+![OxygenTank Prediction](https://github.com/Hemanth098/Duality-AI-Dataset-Falcon/blob/main/runs/detect/predict3/000000008_vlight_unclutter.jpg)
